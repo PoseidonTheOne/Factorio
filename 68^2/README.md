@@ -10,16 +10,16 @@ Link to profile: https://www.reddit.com/user/Leading-Media-4569/
 
 ### Bridging
 Used for merging city blocks
-![Project Screenshot](68^2/CityBlocks/bridge.png)
+![Project Screenshot](CityBlocks/bridge.png)
 [68^2/CityBlocks](bridge)
 
 ### Turn
-![Project Screenshot](68^2/CityBlocks/turn.png)
+![Project Screenshot](CityBlocks/turn.png)
 https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/turn
 
 ### Junction
 
-![Project Screenshot](68^2/CityBlocks/junction.png)
+![Project Screenshot](CityBlocks/junction.png)
 <p style="text-align: center;">68^2/CityBlocks/junction.</p>
 https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/junction
 
