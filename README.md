@@ -27,9 +27,9 @@ https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/turn
 ### Junctions
 
 ![Project Screenshot](68^2/CityBlocks/junction.png)
-<l align="center">68^2/CityBlocks/junction</h1>
+<p style="text-align: center;">68^2/CityBlocks/junction.</p>
 https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/junction
 
 ![Project Screenshot](68^2/CityBlocks/t-junction.png)
-<l align="center">68^2/CityBlocks/t-junction</h1>
+<p style="text-align: center;">68^2/CityBlocks/t-junction.</p>
 https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/t-junction
