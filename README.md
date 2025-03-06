@@ -19,6 +19,7 @@ Used for merging city blocks
 ![Project Screenshot](68^2/CityBlocks/bridge.png)
 https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/bridge
 68^2/CityBlocks/bridge
+[68^2](1)
 
 ### Turn
 ![Project Screenshot](68^2/CityBlocks/turn.png)
