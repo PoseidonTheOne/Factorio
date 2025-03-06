@@ -15,3 +15,12 @@ Project 68^2 is my train based city block system. Im learnig how to use trains s
 ### Bridging
 Used for merging city blocks
 
+![Project Screenshot](68^2/CityBlocks/bridge.png)
+
+### Turn
+![Project Screenshot](68^2/CityBlocks/turn.png)
+
+### Junctions
+
+![Project Screenshot](68^2/CityBlocks/junction.png)
+![Project Screenshot](68^2/CityBlocks/t-junction.png)
