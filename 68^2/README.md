@@ -5,7 +5,7 @@ Project 68^2 is my train based city block system. Im learnig how to use trains s
 Heavily inspired by Leading-Medias-4569 base posted on reddit. Same block size and setup, just adapted for rigth hand train usage.
 Link to profile: https://www.reddit.com/user/Leading-Media-4569/
 ### Straigth piece 
-![Project Screenshot](68^2/CityBlocks/straigth.png)
+![Project Screenshot](CityBlocks/straigth.png)
 68^2/CityBlocks/straight
 
 ### Bridging
@@ -24,7 +24,7 @@ https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/turn
 https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/junction
 
 ### T-junction
-![Project Screenshot](68^2/CityBlocks/t-junction.png)
+![Project Screenshot](CityBlocks/t-junction.png)
 <p style="text-align: center;">68^2/CityBlocks/t-junction.</p>
 https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/t-junction
 
