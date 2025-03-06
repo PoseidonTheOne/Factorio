@@ -1,4 +1,4 @@
-# 68^2
+# Project 68^2
 Project 68^2 is my train based city block system. Im learnig how to use trains so bare with me :)
 
 ## City block components:
