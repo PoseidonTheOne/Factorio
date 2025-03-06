@@ -6,27 +6,27 @@ Heavily inspired by Leading-Medias-4569 base posted on reddit. Same block size a
 Link to profile: https://www.reddit.com/user/Leading-Media-4569/
 
 ## BP book
-[CityBlocks](CityBlocks)
+[CityBlockBP](CityBlocks/CityBlocks)
 
 ### Straigth piece 
 Used for linking turns or junctions.
 ![Project Screenshot](CityBlocks/straigth.png)
-[CityBlocks](straigth)
+[StraigthBP](CityBlocks/straigth)
 
 ### Bridging
 Used for merging city blocks when used with one straigth piece in each end.
 ![Project Screenshot](CityBlocks/bridge.png)
-[CityBlocks](bridge)
+[BridgeBP](bridge)
 
 ### Turn
  ![Project Screenshot](CityBlocks/turn.png)
- [turn](CityBlocks/turn)
+ [turnBP](CityBlocks/turn)
 
 ### Junction
 ![Project Screenshot](CityBlocks/junction.png)
-[CityBlocks](junction)
+[JunctionBP](CityBlocks/junction)
 
 ### T-junction
 ![Project Screenshot](CityBlocks/t-junction.png)
-[CityBlocks](t-junction)
+[T-junctionBP](CityBlocks/t-junction)
 
