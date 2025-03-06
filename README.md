@@ -17,9 +17,7 @@ Link to profile: https://www.reddit.com/user/Leading-Media-4569/
 ### Bridging
 Used for merging city blocks
 ![Project Screenshot](68^2/CityBlocks/bridge.png)
-https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/bridge
-68^2/CityBlocks/bridge
-[68^2](1)
+[68^2/CityBlocks](bridge)
 
 ### Turn
 ![Project Screenshot](68^2/CityBlocks/turn.png)
@@ -37,4 +35,3 @@ https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/junction
 https://github.com/PoseidonTheOne/Factorio/blob/main/68%5E2/CityBlocks/t-junction
 
 
-> dewe
