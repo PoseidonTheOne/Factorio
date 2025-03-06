@@ -9,3 +9,4 @@ Project 68^2 is my train based city block system. Im learnig how to use trains s
 
 ### Straigth piece 
 ![Project Screenshot](68^2/CityBlocks/straigth.png)
+68^2/CityBlocks/straight
